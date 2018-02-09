@@ -1,0 +1,15 @@
+{
+  "name": "interest_burndown_calculator",
+  "version": "0.1.0",
+  "description": "Get an overview of how long time and how much money it will take you to burn down through a loan and see how much you will pay in interests. Adjust the loan andd see adjusted time as well",
+  "main": "interest_calculator.js",
+  "scripts": {},
+  "author": "Patrick Goethe",
+  "dependencies": {
+    "webpack": "^3.10.0",
+    "webpack-dev-server": "^2.11.1"
+  },
+  "devDependencies": {
+    "path": "^0.12.7"
+  }
+}
